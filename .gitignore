@@ -4,7 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
-Assets/NatureManufacture Assets/
+NatureManufacture Assets
 
 # Visual Studio cache directory
 .vs/
